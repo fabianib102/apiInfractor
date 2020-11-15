@@ -1,0 +1,42 @@
+[
+    {
+        "dominio": "VCG789",
+        "marca": "Alfa Romeo",
+        "modelo": "145",
+        "tipo": "Sedán 2 puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Chaco",
+            "localidad": "Resistencia",
+            "codigoPostal": "3500",
+            "calle": "Monteagudo",
+            "numero": "152",
+            "piso": "5"
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "37586932",
+            "titular": "Avalos Fausto"
+        }
+    },
+    {
+        "dominio": "ABC123",
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "tipo": "4 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Corrientes",
+            "localidad": "Corrientes",
+            "codigoPostal": "3400",
+            "calle": "Junin",
+            "numero": "152",
+            "piso": "5"
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "35899612",
+            "titular": "Juan Perez"
+        }
+    }
+]

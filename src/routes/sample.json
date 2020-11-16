@@ -38,5 +38,125 @@
             "nroDocumento": "35899612",
             "titular": "Juan Perez"
         }
+    },
+    {
+        "dominio": "EFC889",
+        "marca": "Chevrolet",
+        "modelo": "Classic",
+        "tipo": "5 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Corrientes",
+            "localidad": "Paso de la Patria",
+            "codigoPostal": "3400",
+            "calle": "Pje De Lavia",
+            "numero": "779",
+            "piso": "5"
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "40558778",
+            "titular": "Ernesto Jacinto"
+        }
+    },
+    {
+        "dominio": "MJU890",
+        "marca": "Chevrolet",
+        "modelo": "Agile",
+        "tipo": "3 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Chaco",
+            "localidad": "Barranqueras",
+            "codigoPostal": "3503",
+            "calle": "Diagonal San Martin",
+            "numero": "120",
+            "piso": ""
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "30998126",
+            "titular": "Mirian Saucedo"
+        }
+    },  
+    {
+        "dominio": "AWW198",
+        "marca": "Citroen",
+        "modelo": "Berlingo",
+        "tipo": "5 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Corrientes",
+            "localidad": "Capital",
+            "codigoPostal": "3400",
+            "calle": "Cuba",
+            "numero": "1820",
+            "piso": ""
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "20587782",
+            "titular": "Fabian Juarez"
+        }
+    },
+    {
+        "dominio": "XAQ899",
+        "marca": "Fiat",
+        "modelo": "Siena",
+        "tipo": "5 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Chaco",
+            "localidad": "Fontana",
+            "codigoPostal": "3514",
+            "calle": "Barrio La Esperanza",
+            "numero": "Mz H Casa 34",
+            "piso": ""
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "6741585",
+            "titular": "Roxana Mendez"
+        }
+    },
+    {
+        "dominio": "XAQ899",
+        "marca": "Fiat",
+        "modelo": "Siena",
+        "tipo": "5 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Chaco",
+            "localidad": "Fontana",
+            "codigoPostal": "3514",
+            "calle": "Barrio La Esperanza",
+            "numero": "Mz H Casa 34",
+            "piso": ""
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "6741585",
+            "titular": "Roxana Mendez"
+        }
+    },
+    {
+        "dominio": "SQO345",
+        "marca": "Peugeot",
+        "modelo": "207 Compact",
+        "tipo": "5 Puertas",
+        "dataPlace": {
+            "pais": "Argentina",
+            "provincia": "Chaco",
+            "localidad": "Resistencia",
+            "codigoPostal": "3400",
+            "calle": "Av Italia",
+            "numero": "203",
+            "piso": ""
+        },
+        "headlineData":{
+            "tipoDocumento": "DNI",
+            "nroDocumento": "35089366",
+            "titular": "Jose Mendez"
+        }
     }
 ]

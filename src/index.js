@@ -16,6 +16,9 @@ app.use(express.json())
 app.use('/api/user',require('./routes/index'));
 app.use('/api/vehicles',require('./routes/vehicles'));
 
+// app.listen(5000, ()=>{
+//     console.log("Server on port: ", process.env.PORT);
+// })
 
 app.listen(process.env.PORT, ()=>{
     console.log("Server on port: ", process.env.PORT);

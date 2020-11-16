@@ -17,6 +17,6 @@ app.use('/api/user',require('./routes/index'));
 app.use('/api/vehicles',require('./routes/vehicles'));
 
 
-app.listen(5000, ()=>{
+app.listen(process.env.PORT, ()=>{
     console.log("Server on port: ", process.env.PORT);
 })
